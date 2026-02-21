@@ -1,6 +1,6 @@
 # Kansas Healthcare Access | Data Analysis & Business Insights
 
-![Project Banner](images/uninsured_rate_map.png)
+![Project Banner](uninsured_rate_map.png)
 
 ## Project Overview
 
