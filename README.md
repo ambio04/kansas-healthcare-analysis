@@ -29,28 +29,28 @@ This project analyzes healthcare access across all **105 Kansas counties** using
 ### 1. Kansas Uninsured Rate Map
 Color-coded choropleth showing uninsured rates across all 105 counties. Darker red = higher uninsured rate.
 
-![Uninsured Rate Map](images/uninsured_rate_map.png)
+![Uninsured Rate Map](uninsured_rate_map.png)
 
 ---
 
 ### 2. HPSA Shortage Score Map
 Shows provider shortage severity by county. Darker purple = more severe shortage (score of 25 = maximum federal designation).
 
-![HPSA Shortage Map](images/hpsa_shortage_map.png)
+![HPSA Shortage Map](hpsa_shortage_map.png)
 
 ---
 
 ### 3. Underserved Counties Map
 Highlights the 12 counties flagged by the SQL analysis as having both high uninsured rates and high HPSA scores.
 
-![Underserved Counties](images/underserved_counties_map.png)
+![Underserved Counties](underserved_counties_map.png)
 
 ---
 
 ### 4. SQL Analysis in DB Browser
 Multi-table join query returning 12 underserved counties from the SQLite database.
 
-![SQL Query Results](images/sql_query_results.png)
+![SQL Query Results](sql_query_results.png)
 
 ---
 
