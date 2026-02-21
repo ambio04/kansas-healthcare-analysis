@@ -73,28 +73,6 @@ Multi-table join query returning 12 underserved counties from the SQLite databas
 
 ---
 
-## Repository Structure
-
-```
-kansas-healthcare-access/
-├── data/
-│   ├── kansas_uninsured_rates.csv       # Census SAHIE 2023, all 105 counties
-│   ├── kansas_hpsa_by_county.csv        # HRSA HPSA designations by county
-│   └── underserved_counties.csv         # Final 12 flagged counties
-├── sql/
-│   └── kansas_queries.sql               # All SQL queries used in analysis
-├── images/
-│   ├── uninsured_rate_map.png           # Tableau Dashboard 1
-│   ├── hpsa_shortage_map.png            # Tableau Dashboard 2
-│   ├── underserved_counties_map.png     # Tableau Dashboard 3
-│   └── sql_query_results.png           # DB Browser query screenshot
-├── report/
-│   └── Kansas_Healthcare_Analysis_Report.docx
-└── README.md
-```
-
----
-
 ## Methodology
 
 ### Data Sources
