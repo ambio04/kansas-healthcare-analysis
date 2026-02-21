@@ -6,7 +6,7 @@
 
 This project analyzes healthcare access across all **105 Kansas counties** using real public data from the U.S. Census Bureau and the Health Resources & Services Administration (HRSA). By combining county-level uninsured rates with Health Professional Shortage Area (HPSA) designations, the analysis identifies the most underserved regions in Kansas and provides data-driven policy recommendations.
 
-**Timeline:** November 2024  
+**Timeline:** November 2025
 **Author:** Ambio Mohamed  
 **Tools:** SQLite, Tableau Public, Excel, Census SAHIE 2023, HRSA HPSA Data
 
